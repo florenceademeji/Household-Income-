@@ -16,11 +16,12 @@ The data is from a survey conducted by Greater Louisville Inc.
 ## Task List
 **Determine the significance of all variables in modeling household income:**
 
-**Model Creation:** Perform regression analysis with INCOME as the dependent variable and AGE, EDUC, HRS1, SPHRS1, EARNRS, CHILDS, and HEAD as independent variables.
+• **Model Creation:** Perform regression analysis with INCOME as the dependent variable and AGE, EDUC, HRS1, SPHRS1, EARNRS, CHILDS, and 
+  HEAD as independent variables.
 
-**Model Evaluation:** Use a general linear F-test to compare the full model with a reduced model excluding non-significant variables.
+• **Model Evaluation:** Use a general linear F-test to compare the full model with a reduced model excluding non-significant variables.
 
-**Conclusion:** The reduced model excluding CHILDS and HEAD is preferred.
+• **Conclusion:** The reduced model excluding CHILDS and HEAD is preferred.
 
 **Model the total number of hours worked per week:**
 
