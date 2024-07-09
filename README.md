@@ -5,10 +5,12 @@ This project investigates household incomes in the Greater Louisville area, util
 
 ## Technologies
 SPSS (Statistical analysis)
+
 Excel (Data manipulation)
 
 ## Dataset:
-The dataset used in this project can be downloaded through this link : https://docs.google.com/spreadsheets/d/1WHX0GlXH9juHGf1-oRoSR4o3-1ejvu1d/edit?usp=sharing&ouid=103866616450836273114&rtpof=true&sd=true
+The dataset used in this project is available through this link : https://docs.google.com/spreadsheets/d/1WHX0GlXH9juHGf1-oRoSR4o3-1ejvu1d/edit?usp=sharing&ouid=103866616450836273114&rtpof=true&sd=true
+
 The data is from a survey conducted by Greater Louisville Inc.
 
 ## Task List
